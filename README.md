@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: https://ucsb-cs156-w24.github.io/jpa03-TianyiYang-Tyler/
+Running at: https://jpa03-83800875.dokku-01.cs.ucsb.edu
 
 # Configuring GitHub Pages for the documentation
 
